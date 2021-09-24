@@ -95,8 +95,6 @@ img
 img:hover
 {
     filter: grayscale(5%);
-    transform: scale(1.1); /* When the img elements are hovered over they increase in size by 1.1 */
-    transition: transform 1s; /* This causes the transformation to last 1 second */
 }
 
 /* The @media rule is used in media queries to apply different styles for different media/types of devices */
